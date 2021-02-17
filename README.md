@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Antoney Abraham ,currently in my last year of Computer Science Engineering under grad. I usually code in python but also getting a hang of c++ and java as well.
+I am Antoney Abraham, currently in my last year of Computer Science Engineering under grad. I usually code in python but also getting a hang of c++ and java as well.
 
 I have hours of experince in common python modules like Openpyxl, Selenium, lxml ,tesseract-ocr and pandas.
 
