@@ -1,8 +1,9 @@
 ### Hi there 👋
-I am Antoney Abraham, currently in my last year of Computer Science Engineering under grad. I usually code in python but also getting a hang of c++ and java as well.
+I am Antoney Abraham,
 
-I have hours of experince in common python modules like Openpyxl, Selenium, lxml ,tesseract-ocr and pandas.
+I do projects on Automation and keep them in my private repostories.
 
+Currently looking for a team to start working/learning on a web project.
 
 <!--
 **antoney1998/antoney1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
