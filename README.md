@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am Antoney Abraham,
 
-I do projects on Automation and keep them in my private repostories.
+I usually do projects on Automation, but sometimes I like to explore in cloud and web dev too.
 
-Currently looking for a team to start working/learning on a web project.
+Thanks
 
 <!--
 **antoney1998/antoney1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
